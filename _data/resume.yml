@@ -16,11 +16,11 @@ education:
   - university: INTI International College
     duration: Q4 2011 - Q1 2013 (Dropout)
     location: Subang Jaya, Selangor, MY
-    major: Information Technology and Communication, CGPA 3.75, Dean's List
+    major: Information Technology and Communication, CGPA 3.75, Dean's List.
   - university: SMK Taman Sri Muda (Gov. High School)
     duration: 2006 - 2010 (Graduated)
     location: Shah Alam, Selangor, MY
-    major: Science Oriented Class, SPM Science and Maths A's
+    major: Science Oriented Class, SPM Science and Maths A's.
 skills:
   - title: Web Development
     items: Backend (Laravel), Classic RDB (MySQL), Modern DB (Firebase), General CMS (WordPress)
@@ -38,7 +38,7 @@ experience:
   - title: Freelance WordPress Management
     duration: 2010 - Now
     company: Freelance
-    description: ADLY Group - Real estate company portfolio, https://adly.com.my
+    description: ADLY Group real estate company portfolio, https://adly.com.my.
 projects:
   - name: Shipping Management Software
     description: Web based software for local container shipping company to upload shipping documents and other related information. Built with Laravel 4, MySQL and Bootstrap.
