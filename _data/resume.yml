@@ -1,6 +1,6 @@
-title: Résumé
+title: Kent Liau Résumé
 name: Kent Liau
-jobtitle: Freelance Game Developer, Freelance Web Developer
+jobtitle: Game Developer, Freelance Web Developer
 contact:
   - icon: fa-envelope
     text: kentliau@gmail.com
@@ -14,16 +14,16 @@ contact:
     link: https://github.com/kentliau
 education:
   - university: INTI International College
-    duration: Q4 2011 - Q1 2013 (Dropout)
+    duration: Q4 2011 - Q1 2014 (Dropout)
     location: Subang Jaya, Selangor, MY
     major: Information and Communication Technology, CGPA 3.84, 3x Dean's List
   - university: SMK Taman Sri Muda (Public High School)
     duration: 2006 - 2010 (Graduated)
     location: Shah Alam, Selangor, MY
-    major: Science Oriented Class, 6x A's in Science and Maths.
+    major: Science Oriented Class, 6x A's in Science and Mathematics.
 skills:
   - title: Web Development
-    items: Backend (Laravel), Classic RDB (MySQL), Modern DB (NoSQL, Firebase), General CMS (WordPress)
+    items: Backend (Laravel), Classic RDB (MySQL), Modern DB (NoSQL, Firebase), Open Source CMS (WordPress)
   - title: Game Development
     items: Unity, Godot, Blender, etc.
   - title: Software Development
@@ -45,7 +45,7 @@ projects:
     contribution: Creator
 languages:
   - name: English
-    proficiency: Work proficiency
+    proficiency: Work, Tech-Oriented
   - name: Mandarin Chinese
     proficiency: Native
   - name: Bahasa Malaysia
