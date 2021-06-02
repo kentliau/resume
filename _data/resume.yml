@@ -16,14 +16,14 @@ education:
   - university: INTI International College
     duration: Q4 2011 - Q1 2013 (Dropout)
     location: Subang Jaya, Selangor, MY
-    major: Information Technology and Communication, CGPA 3.75, Dean's List.
-  - university: SMK Taman Sri Muda (Gov. High School)
+    major: Information and Communication Technology, CGPA 3.84, 3x Dean's Honor Roll
+  - university: SMK Taman Sri Muda (Public High School)
     duration: 2006 - 2010 (Graduated)
     location: Shah Alam, Selangor, MY
-    major: Science Oriented Class, SPM Science and Maths A's.
+    major: Science Oriented Class, SPM Science and Maths 6x A's.
 skills:
   - title: Web Development
-    items: Backend (Laravel), Classic RDB (MySQL), Modern DB (Firebase), General CMS (WordPress)
+    items: Backend (Laravel), Classic RDB (MySQL), Modern DB (NoSQL, Firebase), General CMS (WordPress)
   - title: Game Development
     items: Unity, Godot, Blender, etc.
   - title: Software Development
@@ -31,7 +31,7 @@ skills:
   - title: Computer Science
     items: UNIX/Linux as a User, Git, Python
   - title: Discipline
-    items: MVC, MVVM, SOLID, DRY, TDD, Minimalism, Uncle Bob's Clean Coding, GoF's Design Patterns, Color Theory
+    items: MVC, MVVM, SOLID, DRY, TDD, Minimalism, Uncle Bob's Clean Code, GoF's Design Patterns, Color Theory
   - title: Maker (Woodworking)
     items: SketchUp CAD, CNC, Hand tools
 experience:
