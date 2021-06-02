@@ -39,7 +39,7 @@ experience:
     description: ADLY Group - Real estate company portfolio, https://adly.com.my
 projects:
   - name: Shipping Management Software
-    description: Web based software for container shipping company built with Laravel 4.
+    description: Web based software for local container shipping company to upload shipping documents and other related information. Built with Laravel 4, MySQL and Bootstrap.
     contribution: Creator
 languages:
   - name: English
