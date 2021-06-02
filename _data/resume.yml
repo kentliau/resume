@@ -23,28 +23,20 @@ education:
     major: Science Oriented Class, SPM Science and Maths A's
 skills:
   - title: Web Development
-    items: Laravel Framework Backend, Classic Relational Database (MySQL alike), General WordPress
+    items: Laravel Backend, Classic RDB (MySQL alike), Modern NoSQL (Firebase), General WordPress
   - title: Game Development
     items: Unity, Godot, Blender
   - title: Software Development
-    items: Native macOS, Native iOS, Electron Crossplatform
+    items: Native Apple Ecosystem, Electron Crossplatform
   - title: Computer Science
-    items: UNIX/Linux as a User, Git
-  - title: Maker (Woodworking & Furniture Making)
+    items: UNIX/Linux as a User, Git, Python
+  - title: Maker (Woodworking)
     items: Sketchup CAD, CNC, Classic Hand Skill
-# experience:
-#   - title: Job Title 1
-#     duration: Apr 2016 - Now
-#     company: Your 1st, Inc.
-#     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-#   - title: Job Title 2
-#     duration: Apr 2013 - Mar 2016
-#     company: Your 2nd, Inc.
-#     description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-#   - title: Job Title 3
-#     duration: Dec 2011 - Mar 2012
-#     company: Your 3rd Co, Ltd.
-#     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+experience:
+  - title: Freelance WordPress Management
+    duration: 2010 - Now
+    company: Freelance
+    description: adly.com.my
 # projects:
 #   - name: Project Name 1
 #     description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
