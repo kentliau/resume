@@ -66,6 +66,7 @@ layout: default
         </div>
       </section>
 
+      {% if site.data.resume.experience %}
       <section id="experience">
         <div class="section-title">
           Experience
@@ -86,7 +87,9 @@ layout: default
           {% endfor %}
         </div>
       </section>
+      {% endif %}
 
+      {% if site.data.resume.projects %}
       <section id="projects">
         <div class="section-title">
           Projects
@@ -107,6 +110,7 @@ layout: default
           {% endfor %}
         </div>
       </section>
+      {% endif %}
 
       <section id="languages">
         <div class="section-title">
