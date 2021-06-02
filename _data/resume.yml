@@ -23,7 +23,7 @@ education:
     major: Science Oriented Class, SPM Science and Maths A's
 skills:
   - title: Web Development
-    items: Laravel Backend, Classic RDB (MySQL), Modern DB (Firebase), General WordPress
+    items: Backend (Laravel), Classic RDB (MySQL), Modern DB (Firebase), General CMS (WordPress)
   - title: Game Development
     items: Unity, Godot, Blender, etc.
   - title: Software Development
@@ -31,7 +31,7 @@ skills:
   - title: Computer Science
     items: UNIX/Linux as a User, Git, Python
   - title: Discipline
-    items: MVC, MVVM, SOLID, DRY, TDD, Uncle Bob's Clean Coding, Design Patterns by GoF
+    items: MVC, MVVM, SOLID, DRY, TDD, Uncle Bob's Clean Coding, GoF's Design Patterns
   - title: Maker (Woodworking)
     items: Sketchup CAD, CNC, Hand tools
 experience:
