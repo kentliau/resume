@@ -23,9 +23,9 @@ education:
     major: Science Oriented Class, SPM Science and Maths A's
 skills:
   - title: Web Development
-    items: Laravel Backend, Classic RDB (MySQL alike), Modern NoSQL (Firebase), General WordPress
+    items: Laravel Backend, Classic RDB (MySQL alike), Modern DB (Firebase), General WordPress
   - title: Game Development
-    items: Unity, Godot, Blender
+    items: Unity, Godot, Blender, etc.
   - title: Software Development
     items: Native Apple Ecosystem, Electron Crossplatform
   - title: Computer Science
@@ -37,13 +37,10 @@ experience:
     duration: 2010 - Now
     company: Freelance
     description: ADLY Group - Real estate company portfolio, https://adly.com.my
-# projects:
-#   - name: Project Name 1
-#     description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-#     contribution: Contributor.
-#   - name: Project Name 2
-#     description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-#     contribution: Creator and maintainer.
+projects:
+  - name: Shipping Management Software
+    description: Web based software for container shipping company built with Laravel 4.
+    contribution: Creator
 languages:
   - name: English
     proficiency: Work proficiency
