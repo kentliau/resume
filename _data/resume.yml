@@ -19,10 +19,10 @@ skills:
     items: Unity, Godot, Blender, etc.
   - title: Software Development
     items: Native Apple Ecosystem, Electron Crossplatform
-  - title: Computer Science
-    items: UNIX/Linux as a User, Git, Python
-  - title: Discipline
-    items: MVC, MVVM, SOLID, DRY, TDD, Minimalism, Uncle Bob's Clean Code, GoF's Design Patterns, Color Theory
+  - title: Toolchain
+    items: UNIX User, Git, Python
+  - title: Computer Science Discipline
+    items: MVC, MVVM, SOLID, DRY, TDD, Uncle Bob's Clean Code, GoF's Design Patterns, Color Theory
   - title: Maker (Woodworking)
     items: SketchUp CAD, CNC, Hand tools
 education:
