@@ -14,7 +14,7 @@ contact:
     link: https://github.com/kentliau
 skills:
   - title: Web Development
-    items: Backend (Laravel), Classic RDB (MySQL), Modern DB (NoSQL, Firebase), Open Source CMS (WordPress)
+    items: Backend (Laravel, Node.js), Classic RDB (MySQL), Modern DB (NoSQL, Firebase), Open Source CMS (WordPress)
   - title: Game Development
     items: Unity, Godot, Blender, etc.
   - title: Software Development
