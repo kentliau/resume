@@ -33,12 +33,12 @@ education:
   - university: SMK Taman Sri Muda (Public High School)
     duration: 2006 - 2010 (Graduated)
     location: Shah Alam, Selangor, MY
-    major: Science Oriented Class, 6x A's in Science and Mathematics.
+    major: Science Oriented First Class, 6x A's in Science and Mathematics.
 experience:
   - title: Freelance WordPress Management
     duration: 2010 - Now
     company: Freelance
-    description: ADLY Group real estate company portfolio, https://adly.com.my.
+    description: ADLY Group, a real estate listing and portfolio site, https://adly.com.my.
 projects:
   - name: Shipping Management Software
     description: Web based software for local container shipping company to upload shipping documents and other related information. Built with Laravel 4, MySQL and Bootstrap.
