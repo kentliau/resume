@@ -4,8 +4,6 @@ jobtitle: Game Developer, Freelance Web Developer
 contact:
   - icon: fa-envelope
     text: kentliau@gmail.com
-  # - icon: fa-phone-square
-  #   text: your-phone-num
   - icon: fa-globe
     text: kent.li/au
     link: https://kent.li/au
@@ -20,7 +18,7 @@ skills:
   - title: Software Development
     items: Native Apple Ecosystem, Electron Crossplatform
   - title: Toolchain
-    items: UNIX User, Git, Python
+    items: UNIX User, Zsh, Git, Python
   - title: Computer Science Discipline
     items: MVC, MVVM, SOLID, DRY, TDD, Uncle Bob's Clean Code, GoF's Design Patterns, Color Theory
   - title: Maker (Woodworking)
