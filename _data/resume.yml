@@ -12,15 +12,6 @@ contact:
   - icon: fa-github
     text: kentliau
     link: https://github.com/kentliau
-education:
-  - university: INTI International College
-    duration: Q4 2011 - Q1 2014 (Dropout)
-    location: Subang Jaya, Selangor, MY
-    major: Information and Communication Technology, CGPA 3.84, 3x Dean's List
-  - university: SMK Taman Sri Muda (Public High School)
-    duration: 2006 - 2010 (Graduated)
-    location: Shah Alam, Selangor, MY
-    major: Science Oriented Class, 6x A's in Science and Mathematics.
 skills:
   - title: Web Development
     items: Backend (Laravel), Classic RDB (MySQL), Modern DB (NoSQL, Firebase), Open Source CMS (WordPress)
@@ -34,6 +25,15 @@ skills:
     items: MVC, MVVM, SOLID, DRY, TDD, Minimalism, Uncle Bob's Clean Code, GoF's Design Patterns, Color Theory
   - title: Maker (Woodworking)
     items: SketchUp CAD, CNC, Hand tools
+education:
+  - university: INTI International College
+    duration: Q4 2011 - Q1 2014 (Dropout)
+    location: Subang Jaya, Selangor, MY
+    major: Information and Communication Technology, CGPA 3.84, 3x Dean's List
+  - university: SMK Taman Sri Muda (Public High School)
+    duration: 2006 - 2010 (Graduated)
+    location: Shah Alam, Selangor, MY
+    major: Science Oriented Class, 6x A's in Science and Mathematics.
 experience:
   - title: Freelance WordPress Management
     duration: 2010 - Now
