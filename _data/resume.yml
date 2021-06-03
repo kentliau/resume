@@ -35,14 +35,17 @@ education:
     location: Shah Alam, Selangor, MY
     major: Science Oriented First Class, 6x A's in Science and Mathematics.
 experience:
-  - title: Freelance WordPress Management
+  - title: WordPress Management
     duration: 2010 - Now
     company: Freelance
     description: ADLY Group, a real estate listing and portfolio site, https://adly.com.my.
 projects:
-  - name: Shipping Management Software
+  - name: Shipping Management Website
     description: Web based software for local container shipping company to upload shipping documents and other related information. Built with Laravel 4, MySQL and Bootstrap.
     contribution: Creator
+  - name: Genting Casino Networking (College Project)
+    description: Wireless networking setup for VIP room to prevent fraud.
+    contribution: Collaborator, Participant
 languages:
   - name: English
     proficiency: Work, Tech Oriented
