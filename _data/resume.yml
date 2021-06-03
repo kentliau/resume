@@ -38,7 +38,7 @@ experience:
   - title: WordPress Management
     duration: 2010 - Now
     company: Freelance
-    description: ADLY Group, a real estate listing and portfolio site, https://adly.com.my.
+    description: ADLY Group, a real estate listing and portfolio site, <a href="https://adly.com.my">adly.com.my</a>.
 projects:
   - name: Shipping Management Website
     description: Web based software for local container shipping company to upload shipping documents and other related information. Built with Laravel 4, MySQL and Bootstrap.
