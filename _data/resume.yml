@@ -43,8 +43,8 @@ projects:
   - name: Shipping Management Website
     description: Web based software for local container shipping company to upload shipping documents and other related information. Built with Laravel 4, MySQL and Bootstrap.
     contribution: Creator
-  - name: Genting Casino Networking (College Project)
-    description: Wireless networking setup for VIP room to prevent fraud. Was given the opportunity to visit Wisma Genting at KL and discuss with their casino IT department.
+  - name: Genting's Casino Networking (College Project)
+    description: Wireless networking setup for VIP room to prevent fraud. Was given the opportunity to visit corporate office of Genting (Wisma Genting, KL) and discuss with their casino IT department and eventually proposed one of the many solution.
     contribution: Participant
 languages:
   - name: English
