@@ -1,6 +1,6 @@
 title: Kent Liau Résumé
 name: Kent Liau
-jobtitle: Indie Game Developer, Freelance Web Developer
+jobtitle: Indie Game Developer, Web Developer
 contact:
   - icon: fa-envelope
     text: kentliau@gmail.com
@@ -11,7 +11,7 @@ contact:
     text: kentliau
     link: https://github.com/kentliau
 skills:
-  - title: Web Development
+  - title: Web Development (Full Stack)
     items: Backend (Laravel, Node.js), Classic RDB (MySQL), Modern DB (NoSQL, Firebase), Open Source CMS (WordPress)
   - title: Game Development
     items: Unity, Godot, Blender, etc.
