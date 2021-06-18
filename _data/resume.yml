@@ -39,7 +39,7 @@ experience:
     description: ADLY Group, a real estate listing and portfolio site, <a href="https://adly.com.my">adly.com.my</a>.
 projects:
   - name: Shipping Management Website
-    description: Web based software for local container shipping company to upload shipping documents and other related information. Built with Laravel 4, MySQL and Bootstrap.
+    description: Web based software for local container shipping company to upload shipping documents and other related information. Built with Laravel 4, MySQL and Bootstrap, <a href="https://bitbucket.org/kentliau/job-tracking-system/">bitbucket.org/kentliau/job-tracking-system</a>.
     contribution: Creator
   - name: Genting's Casino Networking (College Project)
     description: Wireless networking setup for VIP room to prevent fraud. Was given the opportunity to visit corporate office of Genting (Wisma Genting, KL) and discuss with their casino IT department and eventually proposed one of the many theoretical solution.
