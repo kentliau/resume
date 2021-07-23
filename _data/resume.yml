@@ -13,16 +13,16 @@ contact:
 skills:
   - title: Game Development
     items: Unity, Godot, Blender, etc.
-  - title: Web Development (Full Stack)
-    items: Backend (Laravel, Node.js), Classic RDB (MySQL), Modern DB (NoSQL, Firebase), Open Source CMS (WordPress)
+  - title: Web Development
+    items: Backend (Laravel, Node.js), RDB (MySQL), NoSQL (Firebase), Open Source CMS (WordPress)
   - title: Software Development
     items: Native Apple Ecosystem, Electron Cross-platform
   - title: Toolchain
     items: UNIX User, Zsh, Git, Python Automation
   - title: Practicing Computer Science Discipline
     items: MVC, MVVM, SOLID, DRY, TDD, Uncle Bob's Clean Code, GoF's Design Patterns, Color Theory
-  - title: Maker (Woodworking)
-    items: SketchUp CAD, CNC, Hand tools
+  - title: Maker
+    items: SketchUp CAD, CNC, Woodworking, Traditional Japanese Joinery
 education:
   - university: INTI International College
     duration: Q4 2011 - Q1 2014 (Dropout)
