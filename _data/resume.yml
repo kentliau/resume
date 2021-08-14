@@ -14,7 +14,7 @@ skills:
   - title: Game Development
     items: Unity, Godot, Blender, etc.
   - title: Web Development
-    items: Backend (Laravel, Node.js), RDB (MySQL), NoSQL (Firebase), Open Source CMS (WordPress)
+    items: Backend (Laravel 8, Node.js), RDB (MySQL), NoSQL (Firebase), Open Source CMS (WordPress)
   - title: Software Development
     items: Native Apple Ecosystem, Electron Cross-platform
   - title: Toolchain
