@@ -18,7 +18,7 @@ skills:
   - title: Software Development
     items: Native Apple Ecosystem, Electron Cross-platform
   - title: Toolchain
-    items: UNIX User, Zsh, Git, Python Automation
+    items: UNIX User, Zsh, Git, Python Automation, Sublime Text
   - title: Practicing Computer Science Discipline
     items: MVC, MVVM, SOLID, DRY, TDD, Uncle Bob's Clean Code, GoF's Design Patterns, Color Theory
   - title: Maker
