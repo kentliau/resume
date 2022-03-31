@@ -10,19 +10,6 @@ contact:
   - icon: fa-github
     text: kentliau
     link: https://github.com/kentliau
-skills:
-  - title: Game Development
-    items: Unity, Godot, Blender, etc.
-  - title: Web Development
-    items: Backend (Laravel 8, Node.js), RDB (MySQL), NoSQL (Firebase), Open Source CMS (WordPress)
-  - title: Software Development
-    items: Native Apple Ecosystem, Electron Cross-platform
-  - title: Toolchain
-    items: UNIX User, Zsh, Git, Python Automation, Sublime Text
-  - title: Practicing Computer Science Discipline
-    items: MVC, MVVM, SOLID, DRY, TDD, Uncle Bob's Clean Code, GoF's Design Patterns, Color Theory
-  - title: Maker
-    items: SketchUp CAD, CNC, Woodworking, Traditional Japanese Joinery
 education:
   - university: INTI International College
     duration: Q4 2011 - Q1 2014 (Dropout)
@@ -33,6 +20,10 @@ education:
     location: Shah Alam, Selangor, MY
     major: Science Oriented Class, 6x A's in Science and Mathematics.
 experience:
+  - title: Tuition Center Operator
+    duration: 2020 - 2021
+    company: -
+    description: Operate a tuition center together with my sister
   - title: WordPress Management
     duration: 2010 - Now
     company: Freelance
@@ -44,10 +35,25 @@ projects:
   - name: Genting's Casino Networking (College Project)
     description: Wireless networking setup for VIP room to prevent fraud. Was given the opportunity to visit corporate office of Genting (Wisma Genting, KL) and discuss with their casino IT department and eventually proposed one of the many theoretical solution.
     contribution: Participant
+skills:
+  - title: Game Development
+    items: Unity, Godot, Blender, etc.
+  - title: Web Development
+    items: Backend (Laravel 8, Node.js), RDB (MySQL), NoSQL (Firebase), Open Source CMS (WordPress)
+  - title: Software Development
+    items: Native Apple Ecosystem, Electron Cross-platform
+  - title: Toolchain
+    items: UNIX User, Zsh, Git, Python Automation, Sublime Text
+  - title: Practicing Computer Science Discipline
+    items: GoF's Design Patterns
+  - title: Maker
+    items: SketchUp CAD, CNC, Woodworking, Traditional Japanese Joinery
 languages:
   - name: English
-    proficiency: Work, Tech Oriented
+    proficiency: Work
   - name: Mandarin Chinese
     proficiency: Native
   - name: Bahasa Malaysia
     proficiency: Social
+
+    
