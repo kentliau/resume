@@ -1,6 +1,6 @@
 title: Kent Liau Résumé
 name: Kent Liau
-jobtitle: Full Stack Developer, Indie Game Developer, Woodworker
+jobtitle: Full Stack Developer, Indie Game Developer, Weekend Hobby Woodworker
 contact:
   - icon: fa-envelope
     text: kentliau@gmail.com
@@ -20,13 +20,17 @@ education:
     location: Shah Alam, Selangor, MY
     major: Science Oriented Class, 6x A's in Science and Mathematics.
 experience:
+  - title: Senior Software Engineer
+    duration: 2021 - Now
+    company: Cun Cun First Trading Sdn. Bhd.
+    description: Develop cross-platform mobile app with web technologies. Our business is focus on F&B industry to get their business online. Join as senior software engineer but also a de facto lead engineer within the engineers team where I have to make decision on technical direction.
   - title: Tuition Center Operator
     duration: 2020 - 2021
-    company:
-    description: Operate a tuition center together with my sister
+    company: Pusat Jagaan Mahir
+    description: Co-own a tuition center with my sister.
   - title: WordPress Management
     duration: 2010 - Now
-    company: Freelance
+    company: Freelance/Short Term Contract
     description: ADLY Group, a real estate listing and portfolio site, <a href="https://adly.com.my">adly.com.my</a>.
 projects:
   - name: Shipping Management Website
@@ -36,16 +40,16 @@ projects:
     description: Wireless networking setup for VIP room to prevent fraud. Was given the opportunity to visit corporate office of Genting (Wisma Genting, KL) and discuss with their casino IT department and eventually proposed one of the many theoretical solution.
     contribution: Participant
 skills:
+  - title: Web Development
+    items: Backend (Laravel, Node.js), Frontend (Vue.js), RDB (MySQL), NoSQL (Firebase), Open Source CMS (WordPress)
   - title: Game Development
     items: Unity, Godot, Blender, etc.
-  - title: Web Development
-    items: Backend (Laravel 8, Node.js), RDB (MySQL), NoSQL (Firebase), Open Source CMS (WordPress)
   - title: Software Development
-    items: Native Apple Ecosystem, Electron Cross-platform
+    items: Native Apple Ecosystem (can read Obj-C and write Swift), Electron Cross-platform
   - title: Toolchain
-    items: UNIX User, Zsh, Git, Python Automation, Sublime Text
-  - title: Practicing Computer Science Discipline
-    items: GoF's Design Patterns
+    items: UNIX/macOS User, Terminal, Git, Python, Sublime Text
+  - title: Books Recommendations
+    items: GoF's Design Patterns, Robert Nystrom's Game Programming Patterns
   - title: Maker
     items: SketchUp CAD, CNC, Woodworking, Traditional Japanese Joinery
 languages:
