@@ -51,8 +51,8 @@ skills:
     items: Motion Graphics (AE, Processing), Some Video Editing, Graphics Creating, Storyboarding
   - title: Toolchain
     items: UNIX/macOS User, Terminal User, Git, GitHub, Python, Sublime Text, Figma, 100 WPM
-  - title: Books Recommendations
-    items: GoF's Design Patterns, Robert Nystrom's Game Programming Patterns
+  - title: Personal Guide
+    items: GoF's Design Patterns
   - title: Maker
     items: SketchUp CAD, CNC, Woodworking, Traditional Japanese Joinery
 languages:
