@@ -42,17 +42,17 @@ projects:
     contribution: Participant
 skills:
   - title: Web Development
-    items: Backend (Laravel, Node.js), Frontend (Vue.js), RDB (MySQL), NoSQL (Firebase), Open Source CMS (WordPress)
+    items: Backend (Laravel, Node.js), Frontend (Vue.js), RDB (MySQL), NoSQL (Firebase), Misc (WordPress, OpenCart, Magento)
   - title: Game Development
-    items: Unity, Godot, Blender, Some 3D Modeling
+    items: Unity, Godot, some Blender
   - title: Software Development
     items: Native Apple Ecosystem (can read Obj-C and write Swift), Electron Cross-platform
   - title: Production
     items: Motion Graphics (AE, Processing), VFX Compositing, Video Editing, Graphics Creating, Storyboarding
   - title: Toolchain
-    items: UNIX/macOS User, Terminal User, Git, GitHub, Python, Sublime Text, Figma, 100 WPM
-  - title: Personal Guide
-    items: GoF's Design Patterns
+    items: macOS/UNIX, Zsh, [GitHub](https://github.com/kentliau), Python, Sublime Text, Figma, [Stack Overflow](https://stackoverflow.com/users/1135503/kent-liau), 100 WPM
+  - title: 42
+    items: GoF's Design Patterns, [Random Folklore](https://www.folklore.org/)
   - title: Maker
     items: SketchUp CAD, CNC, Woodworking, Traditional Japanese Joinery
 languages:
