@@ -23,7 +23,7 @@ experience:
   - title: Senior Software Engineer
     duration: 2021 - Now
     company: Cun Cun First Trading Sdn. Bhd.
-    description: Develop cross-platform mobile app with web technologies. Our business is focus on F&B industry to get their business online. Join as senior software engineer but also a de facto lead engineer within the engineers team where I have to make decision on technical direction.
+    description: Develop cross-platform mobile app with web technologies. Our business is focus on F&B industry to get their business online. Joined as senior software engineer but also a de facto lead engineer within the engineers team where I have to make decision on technical direction.
   - title: Tuition Center Operator
     duration: 2020 - 2021
     company: Pusat Jagaan Mahir
@@ -43,11 +43,13 @@ skills:
   - title: Web Development
     items: Backend (Laravel, Node.js), Frontend (Vue.js), RDB (MySQL), NoSQL (Firebase), Open Source CMS (WordPress)
   - title: Game Development
-    items: Unity, Godot, Blender, etc.
+    items: Unity, Godot, Blender, Some 3D Modeling
   - title: Software Development
     items: Native Apple Ecosystem (can read Obj-C and write Swift), Electron Cross-platform
+  - title: Production
+    items: Motion Graphics (AE, Processing), Some Video Editing, Graphics Creating, Storyboarding
   - title: Toolchain
-    items: UNIX/macOS User, Terminal, Git, Python, Sublime Text
+    items: UNIX/macOS User, Terminal User, Git, GitHub, Python, Sublime Text, Figma
   - title: Books Recommendations
     items: GoF's Design Patterns, Robert Nystrom's Game Programming Patterns
   - title: Maker
