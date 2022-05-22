@@ -46,11 +46,11 @@ skills:
   - title: Game Development
     items: Unity, Godot, some Blender
   - title: Software Development
-    items: Native Apple Ecosystem (can read Obj-C and write Swift), Electron Cross-platform
+    items: Native Apple Ecosystem (Swift/Obj-C), Electron Cross-platform
   - title: Production
     items: Motion Graphics (AE, Processing), VFX Compositing, Video Editing, Graphics Creating, Storyboarding
   - title: Toolchain
-    items: macOS/UNIX, Zsh, [GitHub](https://github.com/kentliau), Python, Sublime Text, Figma, [Stack Overflow](https://stackoverflow.com/users/1135503/kent-liau), 100 WPM
+    items: macOS/UNIX, Zsh, <a href="https://github.com/kentliau">GitHub</a>, Python, Sublime Text, Figma, <a href="https://stackoverflow.com/users/1135503/kent-liau">Stack Overflow</a>, 100 WPM
   - title: 42
     items: GoF's Design Patterns, [Random Folklore](https://www.folklore.org/)
   - title: Maker
