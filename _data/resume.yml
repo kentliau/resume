@@ -1,7 +1,7 @@
 title: Kent Liau Résumé
 name: Kent Liau
 pronouns: He/Him
-jobtitle: Full Stack Developer, Indie Game Developer, Woodworker
+jobtitle: Full Stack Developer, Indie Game Developer, Maker
 contact:
   - icon: fa-envelope
     text: kentliau@gmail.com
@@ -11,6 +11,21 @@ contact:
   - icon: fa-github
     text: kentliau
     link: https://github.com/kentliau
+skills:
+  - title: Web Development
+    items: Backend (Laravel, Node.js), Frontend (Vue.js), RDB (MySQL), NoSQL (Firebase), Misc (WordPress, OpenCart, Magento)
+  - title: Game Development
+    items: Unity, Godot, some Blender
+  - title: Software Development
+    items: Native Apple Ecosystem (Swift/Obj-C), Electron Cross-platform
+  - title: Production
+    items: Motion Graphics (AE, Processing), VFX Compositing, Video Editing, Graphics Creating, Storyboarding
+  - title: Toolchain
+    items: macOS/UNIX, Zsh, <a href="https://github.com/kentliau">GitHub</a>, Python, Sublime Text, Figma, <a href="https://stackoverflow.com/users/1135503/kent-liau">Stack Overflow</a>, 80/100 WPM
+  - title: Maker
+    items: Woodworking, some Japanese Joinery, SketchUp CAD, CNC
+  - title: 42
+    items: GoF's Design Patterns, <a href="https://www.folklore.org/">Random Folklore</a>    
 education:
   - university: INTI International College
     duration: Q4 2011 - Q1 2014 (Dropout)
@@ -40,21 +55,6 @@ projects:
   - name: Genting's Casino Networking (College Project)
     description: Wireless networking setup for VIP room to prevent fraud. Was given the opportunity to visit corporate office of Genting (Wisma Genting, KL) and discuss with their casino IT department and eventually proposed one of the many theoretical solution.
     contribution: Participant
-skills:
-  - title: Web Development
-    items: Backend (Laravel, Node.js), Frontend (Vue.js), RDB (MySQL), NoSQL (Firebase), Misc (WordPress, OpenCart, Magento)
-  - title: Game Development
-    items: Unity, Godot, some Blender
-  - title: Software Development
-    items: Native Apple Ecosystem (Swift/Obj-C), Electron Cross-platform
-  - title: Production
-    items: Motion Graphics (AE, Processing), VFX Compositing, Video Editing, Graphics Creating, Storyboarding
-  - title: Toolchain
-    items: macOS/UNIX, Zsh, <a href="https://github.com/kentliau">GitHub</a>, Python, Sublime Text, Figma, <a href="https://stackoverflow.com/users/1135503/kent-liau">Stack Overflow</a>, 80/100 WPM
-  - title: 42
-    items: GoF's Design Patterns, <a href="https://www.folklore.org/">Random Folklore</a>
-  - title: Maker
-    items: SketchUp CAD, CNC, Woodworking, Traditional Japanese Joinery
 languages:
   - name: English
     proficiency: Work
