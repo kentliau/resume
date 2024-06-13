@@ -15,9 +15,11 @@ skills:
   - title: Web Development
     items: Backend (Laravel, Node.js), Frontend (Vue.js), RDB (MySQL), NoSQL (Firebase), Misc (WordPress, OpenCart, Magento)
   - title: Game Development
-    items: Unity, Godot, some Blender
+    items: Unity, Godot, more Blender
   - title: Software Development
-    items: Native Apple Ecosystem (Swift/Obj-C), Electron Cross-platform, NativeScript
+    items: Native Apple Ecosystem (Swift/Obj-C), Electron Cross-platform, NativeScript, Flutter
+  - title: DevOps
+    items: AWS
   - title: Production
     items: Motion Graphics (AE, Processing), VFX Compositing, Video Editing, Graphics Creating, Storyboarding
   - title: Toolchain
