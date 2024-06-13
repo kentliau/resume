@@ -1,7 +1,7 @@
 title: Kent Liau Résumé
 name: Kent Liau
 pronouns: He/Him
-jobtitle: Full Stack Developer, Indie Game Developer, Weekend Hobby Woodworker
+jobtitle: Software Developer
 contact:
   - icon: fa-envelope
     text: kentliau@gmail.com
@@ -11,6 +11,23 @@ contact:
   - icon: fa-github
     text: kentliau
     link: https://github.com/kentliau
+skills:
+  - title: Web Development
+    items: Backend (Laravel, Node.js), Frontend (Vue.js), RDB (MySQL), NoSQL (Firebase), Misc (WordPress, OpenCart, Magento)
+  - title: Game Development
+    items: Unity, Godot, more Blender
+  - title: Software Development
+    items: Native Apple Ecosystem (Swift/Obj-C), Electron Cross-platform, NativeScript, Flutter
+  - title: DevOps
+    items: AWS
+  - title: Production
+    items: Motion Graphics (AE, Processing), VFX Compositing, Video Editing, Graphics Creating, Storyboarding
+  - title: Toolchain
+    items: macOS/UNIX, Zsh, <a href="https://github.com/kentliau">GitHub</a>, Python, Sublime Text, Figma, <a href="https://stackoverflow.com/users/1135503/kent-liau">Stack Overflow</a>, 80/100 WPM
+  - title: Maker
+    items: Woodworking, some Japanese Joinery, SketchUp CAD, CNC
+  - title: 42
+    items: GoF's Design Patterns, <a href="https://www.folklore.org/">Random Folklore</a>    
 education:
   - university: INTI International College
     duration: Q4 2011 - Q1 2014 (Dropout)
@@ -21,16 +38,24 @@ education:
     location: Shah Alam, Selangor, MY
     major: Science Oriented Class, 6x A's in Science and Mathematics.
 experience:
-  - title: Senior Software Engineer
-    duration: 2021 - Now
+  - title: Software Developer
+    duration: 2022 - now
+    company: Alphapod Sdn. Bhd.
+    description: Develop full stack solution for clients.
+  - title: Software Engineer
+    duration: 2021 - 2022
     company: Cun Cun First Trading Sdn. Bhd.
-    description: Develop cross-platform mobile app with web technologies. Our business is focus on F&B industry to get their business online. Joined as senior software engineer but also a de facto lead engineer within the engineers team where I have to make decision on technical direction.
+    description: Develop cross-platform mobile app with web technologies. Our focus is help offline business get online. Joined as senior software engineer but also a de facto lead engineer within the engineers team where I have to make decision on technical direction.
+  - title: Web Developer (Rails)
+    duration: 2012-2014
+    company: (defunct)
+    description: yelp wannabe.
   - title: Tuition Center Operator
     duration: 2020 - 2021
     company: Pusat Jagaan Mahir
-    description: Co-own a tuition center with my sister.
+    description: Co-own a tuition center.
   - title: WordPress Management
-    duration: 2010 - Now
+    duration: 2010 - 2022
     company: Freelance/Short Term Contract
     description: ADLY Group, a real estate listing and portfolio site, <a href="https://adly.com.my">adly.com.my</a>.
 projects:
@@ -40,21 +65,6 @@ projects:
   - name: Genting's Casino Networking (College Project)
     description: Wireless networking setup for VIP room to prevent fraud. Was given the opportunity to visit corporate office of Genting (Wisma Genting, KL) and discuss with their casino IT department and eventually proposed one of the many theoretical solution.
     contribution: Participant
-skills:
-  - title: Web Development
-    items: Backend (Laravel, Node.js), Frontend (Vue.js), RDB (MySQL), NoSQL (Firebase), Open Source CMS (WordPress)
-  - title: Game Development
-    items: Unity, Godot, Blender, Some 3D Modeling
-  - title: Software Development
-    items: Native Apple Ecosystem (can read Obj-C and write Swift), Electron Cross-platform
-  - title: Production
-    items: Motion Graphics (AE, Processing), Some Video Editing, Graphics Creating, Storyboarding
-  - title: Toolchain
-    items: UNIX/macOS User, Terminal User, Git, GitHub, Python, Sublime Text, Figma, 100 WPM
-  - title: Books Recommendations
-    items: GoF's Design Patterns, Robert Nystrom's Game Programming Patterns
-  - title: Maker
-    items: SketchUp CAD, CNC, Woodworking, Traditional Japanese Joinery
 languages:
   - name: English
     proficiency: Work
